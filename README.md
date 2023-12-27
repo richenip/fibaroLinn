@@ -1,9 +1,9 @@
-Fibaro Linn code snippets
+Fibaro Linn LUA code snippets
 
-Some code to control the Linn Acurate DSM active/standby remotely from Fibaro
+Some code to control the Linn Akurate DSM active/standby remotely from Fibaro Home Center 2.
 
-First create virtual device in Fibaro with 2 buttons. Add the IP address of the Linn streamer.
-Then configure the active and standby buttons with the code provided, referring to the IP adress.
+First create a virtual device in Fibaro with 2 buttons. Add the IP address of the Linn streamer.
+Then configure the active and standby buttons with the LUA code provided, referring to the IP adress.
 
 Leave main loop empty.
 
